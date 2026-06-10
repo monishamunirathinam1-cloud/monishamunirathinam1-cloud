@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Monisha 👋
 
-<!--
-**monishamunirathinam1-cloud/monishamunirathinam1-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.E. Student at Vel Tech High Tech Engineering College (2027)
 
-Here are some ideas to get you started:
+💻 Skills
+- Python
+- HTML
+- Machine Learning
+- Deep Learning
+- Artificial Intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects
+- Speech Emotion Recognition Using Deep Learning
+- AI Mini Projects
+- Python Applications
+
+🏆 Experience
+- Artificial Intelligence Intern at NITTSD
+
+📜 Certifications
+- The Joy of Computing Using Python
+
+📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/monisha-m-6307ab31b/
